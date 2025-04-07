@@ -1,0 +1,27 @@
+[
+  {
+    "filename": "ENCFF190KNC.bed",
+    "processed_path": "database/processed/ENCFF190KNC.bed",
+    "total_length": 14609463
+  },
+  {
+    "filename": "ENCFF608BGQ.bed",
+    "processed_path": "database/processed/ENCFF608BGQ.bed",
+    "total_length": 153345831
+  },
+  {
+    "filename": "ENCFF832YGL.bed",
+    "processed_path": "database/processed/ENCFF832YGL.bed",
+    "total_length": 225912303
+  },
+  {
+    "filename": "ENCFF082UWB.bed",
+    "processed_path": "database/processed/ENCFF082UWB.bed",
+    "total_length": 99288132
+  },
+  {
+    "filename": "ENCFF247CME.bed",
+    "processed_path": "database/processed/ENCFF247CME.bed",
+    "total_length": 75541637
+  }
+]
